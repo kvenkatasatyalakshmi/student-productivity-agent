@@ -46,7 +46,7 @@ cd student-productivity-agent
 student-productivity-agent/
 ├── backend/        # Express + MongoDB API
 ├── frontend/       # React + Material-UI client
-├── screenshots/       after uploading only i can keep live demo know and i dont have bad
+├── screenshots/      
 ├── README.md       # Documentation
 
 
